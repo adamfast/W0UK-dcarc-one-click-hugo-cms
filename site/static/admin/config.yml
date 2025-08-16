@@ -19,7 +19,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "event"
     label: "Event"
-    folder: "site/content/event"
+    folder: "site/content/events"
     path: "{{slug}}/index"
     create: true
     fields:
