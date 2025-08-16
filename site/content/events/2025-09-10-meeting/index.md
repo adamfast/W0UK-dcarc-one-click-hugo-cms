@@ -1,5 +1,5 @@
 ---
-title: Monthly Meeting August 13, 2025
+title: Monthly Meeting September 10, 2025
 date: 2025-08-01T16:00:00.000Z
 description: Regularly Scheduled Monthly Meeting
 ---
